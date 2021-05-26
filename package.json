@@ -1,12 +1,12 @@
 {
   "name": "2.5node_Restfull",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "lkh <215551728@qq.com>",
+  "license": "ISC",
+  "description": ""
 }
